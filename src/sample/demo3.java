@@ -10,5 +10,9 @@ public static void main(String[] args)
 	    //I want result as true and also false do it by using string methods
 	    
 	    System.out.println("don't sleep do this task now");
+	    
+	    System.out.println(s1.equals(s2));  //true
+	    
+	    System.out.println(s1==s2);   //false
 }
 }
